@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as pl
 import sys
 import random
-#This project was made by Iftakhar, Danvin and Salman.
 #In total 2 CSV files will be made automatically when the add_data() and user() functions are called.
 #Softstocks.csv holds the software info like price , quantity,etc.
 #Softsales.csv holds the sales info like the software bought, customer who bought it,etc.
